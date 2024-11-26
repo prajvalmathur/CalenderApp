@@ -7,5 +7,5 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
-  base: '/vite-deploy-demo/'
+  base: '/vite-deploy-demo/',
 });
